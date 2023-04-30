@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Coddie
 - 👀 I’m interested in growing as a computer programmer
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on moderately challenging projects
 - 📫 How to reach me: Connect with me via LinkedIn: https://www.linkedin.com/in/coddie-curry/
 
